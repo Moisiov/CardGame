@@ -1,0 +1,21 @@
+
+{1} of a kind
+
+Game board contains {0} decks ({1}x{1} grid)
+of 52 cards. Players take turns to draw a new
+card from any deck, except the last deck drawn.
+
+When {1} cards with same value are on the
+line horizontally, vertically or diagonally,
+the player who drew the last card gets points
+equal to the value of the drawn card. The
+cards in the line are removed from decks and
+new cards are drawn. If new line/lines appear,
+player on turn gets points, cards are removed
+and new cards are drawn. This is continued
+until no lines are found.
+
+The player who first gets {2} points or
+above wins. If any of the decks run out of
+cards, game ends and the winner is the player
+with most points.
